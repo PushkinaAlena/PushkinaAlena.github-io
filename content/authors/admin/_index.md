@@ -25,7 +25,7 @@ bio:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon:  
     url: '1132246822@pfur.ru'
     label: E-mail Me
   
